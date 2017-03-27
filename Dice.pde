@@ -3,7 +3,7 @@ int myTotal;
 void setup()
 {
   myTotal=0;
-  size(800,850);
+  size(400,550);
   noLoop();
 }
 void draw()
